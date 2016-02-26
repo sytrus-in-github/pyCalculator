@@ -1,0 +1,1 @@
+@python -i init_calculator.py
