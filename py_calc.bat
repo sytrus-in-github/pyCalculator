@@ -1,1 +1,1 @@
-@python -i init_calculator.py
+@python -i "%~dp0\init_calculator.py"
